@@ -1,0 +1,5 @@
+- Comando "dir" para listar pastas e arquivos. No linux "ls".
+- Comando "cd" para entrar em uma pasta ou repositório específico.
+- Comando "cd.." para voltar um nível.
+- Comando "cls" ou "Ctrl + L" para limpar a tela. Linux "clear".
+- Tecla "Tab" completa a palavra que esta sendo digitada por um arquivo do mesmo nome.
